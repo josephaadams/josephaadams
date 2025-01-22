@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Joseph! </a>☺</h1>
 
 🚀 IT & VFX Professional | Tracking Supervisor | Team Leader
 
