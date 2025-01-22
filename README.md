@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joseph Adams! </a></h1>
 
-🚀 IT & VFX Professional | Supervisor | Team Leader
+🚀 IT Professional | Supervisor | Team Leader
 
 - 🎓 B.S. in Computer Science | Certified in IT & Active Directory
 - 🔧 IT Skills: Virtual Machines (Azure), osTicket, Active Directory
