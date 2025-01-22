@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/josephaadams/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Step-by-Step: Creating a VM in Microsoft Azure](https://github.com/josephaadams/azure-vmcreation)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/josephaadams/config_activedirectory)
 
 <h2>🤳Connect with me:</h2>
 
