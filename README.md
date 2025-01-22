@@ -2,11 +2,11 @@
 
 🚀 IT & VFX Professional | Tracking Supervisor | Team Leader
 
-🎓 B.S. in Computer Science | Certified in IT & Active Directory
-🔧 IT Skills: Virtual Machines (Azure), osTicket, Active Directory
-🎬 Tracking Supervisor (8+ Years): Led teams at Fuse FX, CoSA VFX, and Encore VFX
-🏆 Management Skills: Team Leadership, Workflow Optimization, Project Coordination
-📌 Currently: Exploring IT roles and leveraging my expertise in VFX and technical leadership.
+- 🎓 B.S. in Computer Science | Certified in IT & Active Directory
+- 🔧 IT Skills: Virtual Machines (Azure), osTicket, Active Directory
+- 🎬 Tracking Supervisor (8+ Years): Led teams at Fuse FX, CoSA VFX, and Encore VFX
+- 🏆 Management Skills: Team Leadership, Workflow Optimization, Project Coordination
+- 📌 Currently: Exploring IT roles and leveraging my expertise in VFX and technical leadership.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
