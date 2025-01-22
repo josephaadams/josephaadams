@@ -1,5 +1,13 @@
 <h1>Hi, I'm Joseph, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
+🚀 IT & VFX Professional | Tracking Supervisor | Team Leader
+
+🎓 B.S. in Computer Science | Certified in IT & Active Directory
+🔧 IT Skills: Virtual Machines (Azure), osTicket, Active Directory
+🎬 Tracking Supervisor (8+ Years): Led teams at Fuse FX, CoSA VFX, and Encore VFX
+🏆 Management Skills: Team Leadership, Workflow Optimization, Project Coordination
+📌 Currently: Exploring IT roles and leveraging my expertise in VFX and technical leadership.
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
